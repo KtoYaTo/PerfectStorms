@@ -23,3 +23,8 @@ git push origin develop
 # Add new branch "fix"
 git checkout -b fix
 
+git add .
+git commit -m "fix commit"
+git push origin fix
+
+
